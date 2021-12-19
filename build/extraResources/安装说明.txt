@@ -1,0 +1,24 @@
+先将压缩包解压缩到一个文件夹里，然后运行对应的脚本即可:
+
+(老园区)setup2#5lkonica.bat 安装人工智能小镇2号楼5楼打印机，IP 10.1.121.200
+(老园区)setup2#9lkonica.bat 安装人工智能小镇2号楼9楼打印机，IP 10.1.129.200
+setup1#13Lkonica.bat 安装新园区主楼13楼打印机，IP 10.14.0.19
+setup1#14Lkonica.bat 安装新园区主楼14楼打印机，IP 10.14.0.15
+setup1#15Lkonica.bat 安装新园区主楼15楼打印机，IP 10.14.0.24
+setup1#16Lkonica.bat 安装新园区主楼16楼打印机，IP 10.14.0.72
+setup2#4Lkonica.bat 安装新园区2号楼4楼打印机，IP 10.14.0.240
+setup2#B2Lkonica.bat 安装新园区2号楼B2楼打印机，IP 10.14.1.89
+setup4#B4Lkonica.bat 安装新园区4号楼B4楼打印机，IP 10.14.0.170
+setup4#C4Lkonica.bat 安装新园区4号楼C4楼打印机，IP 10.14.1.98
+setup4#C526konica.bat 安装新园区4号楼C526楼打印机，IP 10.14.0.20
+setup6#4Lkonica.bat 安装新园区6号楼4楼打印机，IP 10.14.0.60
+setup7#4Lkonica.bat 安装新园区7号楼4楼打印机，IP 10.14.0.50
+setup8#1Lkonica.bat 安装新园区8号楼1楼打印机，IP 10.14.0.51
+setup8#2Lkonica.bat 安装新园区8号楼2楼打印机，IP 10.14.0.69
+setup8#A213konica.bat 安装新园区8号楼A213打印机，IP 10.14.1.99
+setup8#3Lkonica.bat 安装新园区8号楼3楼打印机，IP 10.14.0.68
+setup8#A3Lkonica.bat 安装新园区8号楼A3楼打印机，IP 10.14.1.94
+setup8#4L403konica.bat 安装新园区8号楼4楼打印机，IP 10.14.0.65
+setup8#5Lkonica.bat 安装新园区8号楼4楼打印机，IP 10.14.0.53
+setup11#2Lkonica.bat 安装新园区11号楼2楼打印机，IP 10.14.0.71
+setup11#5Lkonica.bat 安装新园区11号楼5楼打印机，IP 10.14.0.70
